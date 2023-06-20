@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Elowan and I'm a web developer fullstack, from 🇫🇷</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left"> My name is Elowan and I'm a web developer fullstack, from 🇫🇷</p>
 
 ###
 
