@@ -1,8 +1,11 @@
-<h2 align="left">Hi 👋!</h2>
+<h1 align="center">Hi 👋, I'm Elowan</h1>
+<h3 align="center">A French fullstack Web Developer</h3>
 
-###
+- 🌱 I’m currently learning **React**
 
-<p align="left"> My name is Elowan and I'm a web developer fullstack, from 🇫🇷</p>
+- 👨‍💻 All of my projects are available at [eloitsme.xyz](eloitsme.xyz)
+
+- 📫 You can contact me on **elowan.aud@proton.me**
 
 ###
 
