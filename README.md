@@ -9,6 +9,10 @@
 
 ###
 
+[![Ruby On Rails](https://github.com/EloItsMe/EloItsMe/assets/125091698/3a116c8f-be82-4370-8bae-b6fd80969e6b)]([https://github.com/EloItsMe/EloItsMe/edit/main/README.md](https://rubyonrails.org/))
+
+
+
 ![eloitsme's Stats](https://github-readme-stats.vercel.app/api?username=eloitsme&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![eloitsme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eloitsme&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
