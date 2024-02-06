@@ -9,7 +9,7 @@
 
 ###
 
-[![Ruby On Rails](https://github.com/EloItsMe/EloItsMe/assets/125091698/3a116c8f-be82-4370-8bae-b6fd80969e6b)]([https://github.com/EloItsMe/EloItsMe/edit/main/README.md](https://rubyonrails.org/))
+[![Ruby On Rails](https://github.com/EloItsMe/EloItsMe/assets/125091698/3a116c8f-be82-4370-8bae-b6fd80969e6b)](https://rubyonrails.org/)
 
 
 
